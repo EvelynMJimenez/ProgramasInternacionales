@@ -4,6 +4,5 @@ pandas
 numpy
 matplotlib
 plotly.express
-plotly.graph_objects
 math
 time
